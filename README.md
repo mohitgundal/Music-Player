@@ -1,10 +1,54 @@
-# Music-Player with JavaScript
+# 🎵 Music Player
 
-Function
-1) Random Song
-2) Previous Song
-3) Next Song
-4) Repeat Song
+A clean and modern Music Player web app built with **HTML**, **CSS**, and **Vanilla JavaScript**. Designed to offer a smooth and responsive user experience with essential music playback features.
 
-The Layout Design of Music Player
-![Screenshot 2023-02-01 110931](https://user-images.githubusercontent.com/86345777/215935830-07cfc994-c4f7-421c-91c5-f2ad7a0d42d4.png)
+## 🚀 Features
+
+- 🔁 Play, Pause, Next, Previous controls
+- 🎚 Volume and progress slider
+- ⏱ Current time and total duration display
+- 🌙 Dark/Light theme toggle
+- ⌨️ Keyboard shortcuts (Space: Play/Pause, Arrow keys: Next/Previous)
+- 📱 Fully mobile responsive design
+- 🎶 Live animated wave effect during playback
+- 🎵 Custom favicon for branding
+
+## 🛠 Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Font Awesome
+
+## 📁 Project Structure
+
+Music-Player/
+│
+├── images/ # Icons,Album photos, favicon
+├── music/ songs
+├── index.html # Main HTML file
+├── style.css # All CSS styles
+├── script.js # Main JavaScript file
+└── README.md # Project description
+
+## 📌 Screenshot
+![Screenshot](Screenshot.png)
+
+
+
+## 📌 How to Use
+
+1. Clone the repo:
+
+
+
+2. Open the `index.html` file in your browser.
+
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+
