@@ -32,7 +32,7 @@ Music-Player/
 └── README.md # Project description
 
 ## 📌 Screenshot
-![Screenshot](Screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 
 
