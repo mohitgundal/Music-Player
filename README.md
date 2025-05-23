@@ -40,12 +40,6 @@ Music-Player/
 
 2. Open the `index.html` file in your browser.
 
-## 📈 Future Enhancements
-
-- Add playlist support
-- Integrate audio visualizer
-- Save volume and theme preferences
-- Drag and drop support for uploading songs
 
 ## 📄 License
 
