@@ -31,6 +31,10 @@ Music-Player/
 ├── script.js # Main JavaScript file
 └── README.md # Project description
 
+## 📌 Screenshot
+![Screenshot](Screenshot.png)
+
+
 
 ## 📌 How to Use
 
