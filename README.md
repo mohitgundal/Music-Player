@@ -32,7 +32,10 @@ Music-Player/
 └── README.md # Project description
 
 ## 📌 Screenshot
-![Screenshot](images/Screenshot.png)
+## Light Theme
+![Screenshot](images/Screenshot1.png)
+## Dark Theme
+![Screenshot](images/Screenshot2.png)
 
 
 
