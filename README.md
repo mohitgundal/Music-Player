@@ -55,7 +55,6 @@ Enjoy smooth audio playback with visual effects, keyboard shortcuts, and light/d
 ## 📁 Folder Structure
 
 Music-Player/
-│
 ├── images/ # Icons,Album photos, favicon
 ├── music/ songs
 ├── index.html # Main HTML file
