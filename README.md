@@ -77,6 +77,7 @@ cd music-player
 ```
 
 3. Open index.html:
+
 Just open the file in your browser — no server needed.
 
 
@@ -89,6 +90,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ## 🙋‍♂️ Author
 Made with ❤️ by Mohit Gundal
 Let’s connect:
+
 📫 [LinkedIn](https://www.linkedin.com/in/mohitbuilds/)  
 🌐 [mohitbuilds.com](https://mohitbuilds.com)  
 📷 [Instagram](https://www.instagram.com/_mohitbuilds/)
