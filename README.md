@@ -54,6 +54,7 @@ Enjoy smooth audio playback with visual effects, keyboard shortcuts, and light/d
 
 ## 📁 Folder Structure
 
+```plaintext
 Music-Player/
 ├── images/ # Icons,Album photos, favicon
 ├── music/ songs
