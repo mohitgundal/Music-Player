@@ -62,8 +62,7 @@ Music-Player/
 ├── style.css # All CSS styles
 ├── script.js # Main JavaScript file
 └── README.md # Project description
-
----
+```
 
 ## 📌 How to Use
 
